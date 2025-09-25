@@ -49,18 +49,6 @@ Je suis étudiant en BUT Informatique avec une solide expérience en programmati
 
 ### 🌟 Projets académiques et personnels
 
-<div align="center">
-
-```mermaid
-graph TD
-    A[💡 Conception] --> B[⚡ Développement]
-    B --> C[🧪 Tests]
-    C --> D[🚀 Déploiement]
-    D --> E[📈 Amélioration]
-```
-
-</div>
-
 - 🎮 **Donjon & Dragons** - Jeu D&D simplifié développé en Java avec IntelliJ
   - Programmation orientée objet avancée
   - Interface utilisateur intuitive
@@ -134,45 +122,3 @@ graph TD
 > 📍 **Localisation** : Saverne, Grand Est, France
 > 
 > 💬 **Ouvert aux collaborations** sur des projets étudiants et stages !
-
----
-
-## 🎨 Centres d'Intérêt
-
-<div align="center">
-
-| 💪 Sport | 💻 Tech | 🎯 Compétences |
-|----------|---------|----------------|
-| Activités sportives | Veille technologique | Gestion de projet |
-| Esprit d'équipe | Nouvelles technologies | Organisation & planification |
-
-</div>
-
----
-
-<div align="center">
-  
-  <h3>🚀 "Apprendre, créer, innover - Un projet à la fois !"</h3>
-  
-  <img src="https://komarev.com/ghpvc/?username=Chrisnac11&style=flat-square&color=blue" alt="Profile views"/>
-  
-</div>
-
----
-
-<details>
-<summary>⚡ En savoir plus</summary>
-
-### 🎯 Objectifs actuels
-- 📈 Approfondir mes connaissances en développement web
-- 🔍 Explorer de nouveaux frameworks et technologies
-- 🤝 Participer à des projets collaboratifs
-- 🏢 Recherche de stage pour mettre en pratique mes compétences
-
-### 💡 Ce qui me motive
-- 🧩 Résoudre des problèmes complexes
-- 👥 Travailler en équipe sur des projets innovants
-- 🌱 Apprentissage continu des nouvelles technologies
-- 🎮 Créer des applications utiles et divertissantes
-
-</details>
