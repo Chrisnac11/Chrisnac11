@@ -63,16 +63,6 @@ Je suis étudiant en BUT Informatique avec une solide expérience en programmati
 
 ---
 
-## 🤝 Me Contacter
-
-<div align="center">
-
-[![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chrisnac11)
-[![](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iliankaan@gmail.com)
-[![](https://img.shields.io/badge/-Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0767581870)
-
-</div>
-
 > 📍 **Localisation** : Saverne, Grand Est, France
 > 
 > 💬 **Ouvert aux collaborations** sur des projets étudiants et stages !
