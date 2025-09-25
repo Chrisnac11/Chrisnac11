@@ -63,19 +63,6 @@ Je suis étudiant en BUT Informatique avec une solide expérience en programmati
 
 ---
 
-## 📚 Formation & Certifications
-
-<div align="center">
-
-| 🎓 Formation | 🏫 Établissement |
-|--------------|------------------|
-| **BUT Informatique** | IUT Robert Schuman, Université de Strasbourg |
-| **Bac STI2D** | Lycée du Haut-Barr, Saverne |
-
-</div>
-
----
-
 ## 🤝 Me Contacter
 
 <div align="center">
