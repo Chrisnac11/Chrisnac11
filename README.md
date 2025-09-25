@@ -74,39 +74,6 @@ Je suis étudiant en BUT Informatique avec une solide expérience en programmati
 
 </div>
 
-### 🏆 Certifications
-- 🔐 **Certification Cybersécurité** avec Cisco Packet Tracer
-- ⭐ **Certification PIX** - Lycée du Haut-Barr
-- 🌐 **Expérience professionnelle** - Stage de découverte (développement web, AutoCAD)
-
----
-
-## 🌍 Langues
-
-<div align="center">
-
-| Langue | Niveau |
-|--------|--------|
-| 🇫🇷 **Français** | Langue maternelle |
-| 🇬🇧 **Anglais** | Bilingue |
-| 🇹🇷 **Turc** | Courant |
-| 🇩🇪 **Allemand** | Courant (B1) |
-
-</div>
-
----
-
-## 💼 Expérience Professionnelle
-
-### 🔬 **Job étudiant - Laboratoire EUROFINS**
-- Travail en équipe et collaboration
-- Rigueur et précision dans les tâches techniques
-
-### 🏢 **Stage de découverte - Saverne (Mai 2021)**
-- Développement de sites web (HTML, JavaScript)
-- Utilisation d'AutoCAD pour conception de plans
-- Première approche du monde professionnel
-
 ---
 
 ## 🤝 Me Contacter
