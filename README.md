@@ -47,19 +47,13 @@ Je suis étudiant en BUT Informatique avec une solide expérience en programmati
 
 ## 🎯 Projets Réalisés
 
-### 🌟 Projets académiques et personnels
+Vous trouverez ci dessous une liste de mes dépots épinglés :
 
-- 🎮 **Donjon & Dragons** - Jeu D&D simplifié développé en Java avec IntelliJ
-  - Programmation orientée objet avancée
-  - Interface utilisateur intuitive
+**Donjon & Dragons** - Jeu D&D simplifié développé en Java avec IntelliJ
   
-- 🏢 **Kalypso** - Simulation de gestion d'entreprise
-  - Gestion de stratégie, production et ventes
-  - Travail d'équipe et gestion de projet
+**C-Network-Simulation** - Un simulateur de réseau écrit en C
 
-- 🌐 **Projets Web** - Développement de sites web
-  - HTML, CSS, JavaScript et PHP
-  - Expérience acquise lors du stage en entreprise
+**Caserne Pompiers** - Une application de gestion d'une caserne de pompiers en C# avec Visual Studio
 
 ---
 
