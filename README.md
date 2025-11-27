@@ -1,7 +1,7 @@
 # 👋 Salut ! Je suis Ilian Akgul
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Étudiant+en+BUT+Informatique;Apprenti+développeur;Toujours+en+apprentissage+!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Étudiant+en+BUT+Informatique;Apprenti+développeur&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </div>
 
 ---
