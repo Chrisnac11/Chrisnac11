@@ -31,7 +31,6 @@ Je suis étudiant en BUT Informatique avec une solide expérience en programmati
 | **C / C#** | Développement d'applications, maîtrise POO |
 | **HTML/CSS/JavaScript** | Interfaces web dynamiques |
 | **PHP** | Développement web backend |
-| **React** | Frameworks JavaScript modernes |
 | **SQL** | Modélisation et requêtes optimisées |
 | **Git/GitHub** | Gestion de versions et collaboration |
 
