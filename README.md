@@ -22,7 +22,7 @@ Je suis étudiant en BUT Informatique avec une solide expérience en programmati
 <img src="https://skillicons.dev/icons?i=java,c,cs,html,css,js,php,mysql&theme=dark" />
 
 ### 🔧 Outils & Environnements
-<img src="https://skillicons.dev/icons?i=gitlab,github,idea,visualstudio,godot&theme=dark" />
+<img src="https://skillicons.dev/icons?i=gitlab,github,idea,vscode,visualstudio,godot&theme=dark" />
 
 </div>
 
@@ -39,7 +39,7 @@ Je suis étudiant en BUT Informatique avec une solide expérience en programmati
 | **SQL** | Modélisation et requêtes optimisées |
 | **Git/GitHub** | Gestion de versions et collaboration |
 
-**Outils spécialisés :** Visual Studio, IntelliJ IDEA, Cisco Packet Tracer, Arduino
+**Outils spécialisés :** Visual Studio, Visual Studio Code, IntelliJ IDEA, Cisco Packet Tracer, Arduino
 
 </details>
 
