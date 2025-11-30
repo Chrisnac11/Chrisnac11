@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ilian%20Akgul&fontSize=42&fontAlign=50&fontAlignY=35&desc=Étudiant%20en%20BUT%20Informatique%20|%20Apprenti%20Développeur&descSize=20&descAlignY=55&animation=twinkling" />
 </div>
-
----
-
 ## 🚀 À propos de moi
 
 > 🎓 **BUT Informatique - IUT Robert Schuman, Université de Strasbourg** | 💻 **Développeur étudiant** | 🌱 **19 ans et passionné de code**
