@@ -22,7 +22,7 @@ Je suis étudiant en BUT Informatique avec une solide expérience en programmati
 <img src="https://skillicons.dev/icons?i=java,c,cs,html,css,js,php,mysql&theme=dark" />
 
 ### 🔧 Outils & Environnements
-<img src="https://skillicons.dev/icons?i=gitlab,github,idea,visualstudio,visualstudiocode,godot&theme=dark" />
+<img src="https://skillicons.dev/icons?i=gitlab,github,idea,visualstudio,vsc,godot&theme=dark" />
 
 </div>
 
