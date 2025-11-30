@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ilian%20Akgul&fontSize=42&fontAlign=50&fontAlignY=35&desc=Étudiant%20en%20BUT%20Informatique%20|%20Apprenti%20Développeur&descSize=20&descAlignY=55&animation=twinkling" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionné+de+code;Développement+web+et+logiciel;Toujours+en+apprentissage&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</div>
-
 ---
 
 ## 🚀 À propos de moi
